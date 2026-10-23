@@ -1,0 +1,6 @@
+Student Marks:
+Aman scored 85
+Riya scored 92
+Rahul scored 56
+Sneha scored 78
+Class Average: 77.75
